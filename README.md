@@ -15,3 +15,4 @@ DB : MySQL / Workbench 8
 조원 : 7명
 
 ## 메인페이지
+![main](https://github.com/losscut25/EPCGP/assets/80761052/af405f0c-5f50-4c3e-b265-c7b8db8c5548)
